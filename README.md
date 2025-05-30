@@ -2,6 +2,11 @@
 
 A classic Atari Breakout clone built with Flutter. Break all the bricks to win!
 
+
+https://github.com/user-attachments/assets/503920df-624c-4654-9893-86e1a70b1573
+
+
+
 ## Features
 
 - Smooth paddle control with touch/drag
